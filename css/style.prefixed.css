@@ -1,0 +1,29 @@
+body {
+  background: lightgray;
+  width: 750px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-family: 'Times New Roman', serif;
+  display: -ms-flexbox;
+  display: flex; }
+
+h2 {
+  font-size: 2em;
+  Color: blue;
+  text-align: center; }
+
+h3 {
+  padding: 5px 10px;
+  color: green;
+  font-size: 1.5em;
+  text-align: center; }
+
+p {
+  font-size: 1.0em;
+  color: black;
+  margin: 20px 20px;
+  box-shadow: 2px 2px 2px gray;
+  background: whitesmoke;
+  padding: 20px 40px; }
+
+/*# sourceMappingURL=style.prefixed.css.map */
