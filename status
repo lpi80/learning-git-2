@@ -1,0 +1,28 @@
+* [33md078d96[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m  Changes to be committed:modified:   package-lock.json
+*   [33m1231b3b[m Merge branch 'task-5'
+[32m|[m[33m\[m  
+[32m|[m * [33m37ce337[m[33m ([m[1;31morigin/task-5[m[33m, [m[1;32mtask-5[m[33m)[m Fixed untracked files
+* [33m|[m   [33m7330be8[m[33m ([m[1;33mtag: task-5-finished[m[33m)[m Merge branch 'task-5'
+[34m|[m[33m\[m [33m\[m  
+[34m|[m [33m|[m[33m/[m  
+[34m|[m * [33m2a45443[m Fix readme.md
+[34m|[m * [33m9b6abd6[m Add autoprefixer, nu-html-checker
+[34m|[m * [33m96f27c2[m Add package.json
+* [35m|[m [33m1763e36[m FIX readme.md
+[35m|[m[35m/[m  
+* [33m2c5e054[m Update README.md
+* [33m4f247c3[m Update README.md
+[35m|[m * [33m32c93d6[m[33m ([m[1;33mtag: task-4-finished[m[33m, [m[1;31morigin/task-4[m[33m, [m[1;32mtask-4[m[33m)[m FIX readme.md
+[35m|[m[35m/[m  
+*   [33mb2baab5[m Merge branch 'devLukasz' into task-4
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m0955aa7[m[33m ([m[1;31morigin/devLukasz[m[33m, [m[1;32mdevLukasz[m[33m)[m Change title, h3 style
+* [1;32m|[m [33mc892c09[m[33m ([m[1;31morigin/devMarzena[m[33m, [m[1;32mdevMarzena[m[33m)[m Change title, h3 style
+[1;32m|[m[1;32m/[m  
+* [33m17e075d[m[33m ([m[1;33mtag: task-3-finished[m[33m)[m Add style.css
+* [33m1476045[m Add 3rd verse and formatting
+* [33ma790a6e[m Add 2nd verse
+* [33m92f90df[m Add sing text
+* [33m473769d[m Add main code index.html
+* [33m1d118ea[m Add index.html
+* [33mb89f217[m Initial commit
